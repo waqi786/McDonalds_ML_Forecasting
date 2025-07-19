@@ -101,7 +101,7 @@ July 19, 2025
 ---
 
 
-**Author:** ✍️
+## Author ✍️
 
 Waqar Ali
 
