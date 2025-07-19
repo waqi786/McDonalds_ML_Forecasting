@@ -87,7 +87,7 @@ https://www.kaggle.com/datasets/harishthakur995/mcdonalds-finanacial-data-2021-2
 ---
 
 
-## License: 📜
+## License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
