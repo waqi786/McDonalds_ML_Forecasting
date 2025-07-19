@@ -80,7 +80,7 @@ After EDA, machine learning models were trained to predict future values of sele
 
 ---
 
-**Dataset Link**
+## Dataset Link
 
 https://www.kaggle.com/datasets/harishthakur995/mcdonalds-finanacial-data-2021-2024
 
