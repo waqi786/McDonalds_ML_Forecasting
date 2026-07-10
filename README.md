@@ -1,4 +1,4 @@
-# 📊 McDonald's Financial Trend Analysis (2021–2024) & Predictive Modeling
+# 📊 McDonald's Financial Trend Analysis & Predictive Modeling
 
 Welcome to this professional data science notebook focused on analyzing and modeling financial data from **McDonald's**. This project is developed by **Waqar Ali** as part of a hands-on portfolio to showcase real-world data analysis, visualization, and machine learning practices.
 
