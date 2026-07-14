@@ -17,7 +17,7 @@ Unnecessary unnamed columns were dropped during preprocessing.
 
 ---
 
-## 🎯 Project Objectives:
+## 🎯 Project Objectives
 
 - 🧹 Clean and prepare the data for analysis and machine learning
 - 📈 Perform exploratory data analysis (EDA) to uncover financial patterns
